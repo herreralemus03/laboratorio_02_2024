@@ -1,0 +1,9 @@
+C:\desarrollos\net\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\desarrollos\net\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\desarrollos\net\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\desarrollos\net\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\desarrollos\net\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\desarrollos\net\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\desarrollos\net\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\desarrollos\net\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\desarrollos\net\LAB2\LAB2\obj\Debug\LAB2.pdb
